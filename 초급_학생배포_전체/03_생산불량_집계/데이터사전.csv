@@ -1,0 +1,8 @@
+﻿column,type,description
+record_id,TEXT,생산실적 유일 ID
+production_date,TEXT,생산일
+equipment_name,TEXT,설비명
+product_name,TEXT,제품명
+produced_qty,INTEGER,"생산량=전수검사량, 개"
+good_qty,INTEGER,양품 개수
+defect_qty,INTEGER,불량 개수
